@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+Disallow: /dist/
+
+# Priority pages
+Allow: /
+Allow: /properties/
+Allow: /property/
+Allow: /videos
+Allow: /careers
+Allow: /terms
+Allow: /privacy
+
+Sitemap: https://indoinvestorinfraworld.com/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /

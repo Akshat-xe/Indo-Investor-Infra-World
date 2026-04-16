@@ -1,0 +1,26 @@
+{
+  "name": "Indo Investor Infra World",
+  "short_name": "Indo Investor",
+  "description": "Premium real estate investment — Noida, Jewar & Dholera. RERA-verified properties, co-working pods, residential plots.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F3460",
+  "theme_color": "#5a7c3a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "finance"],
+  "lang": "en-IN"
+}

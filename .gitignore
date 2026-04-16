@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment (never commit secrets)
+.env
+.env.local
+.env.*.local
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Misc
+Thumbs.db
+
+# Claude/AI directories (dev-only, not for client repo)
+.claude
+.claude-flow
+.mcp.json
+CLAUDE.md
+
+# Bun lockfiles (project uses npm)
+bun.lock
+bun.lockb
+
+# Netlify redirect (not needed for GitHub Pages)
+public/_redirects
+
+# AI crawler file (not needed)
+public/llms.txt
