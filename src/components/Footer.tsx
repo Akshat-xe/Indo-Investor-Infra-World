@@ -252,7 +252,7 @@ const Footer = () => {
                 Privacy
               </Link>
               <p className="text-[10px] sm:text-xs text-muted-foreground font-body">
-                Developed & Designed by <span className="text-primary font-medium">Akshat Kumar</span>
+                Designed by <a href="#" className="text-primary hover:underline">Anubhav Goyal</a>
               </p>
             </div>
           </div>

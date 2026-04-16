@@ -50,7 +50,7 @@ const ProcessSection = () => {
               Why Choose Us
             </span>
           </div>
-          <h2 className="text-display text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-foreground leading-tight">
+          <h2 className="text-display text-3xl xs:text-4xl sm:text-5xl md:text-6xl text-foreground leading-tight">
             Invest With
             <br />
             <span className="text-gradient-gold">Confidence</span>

@@ -51,7 +51,7 @@ const EditorialSection = () => {
               </span>
             </div>
 
-            <h2 className="text-display text-[7vw] xs:text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-foreground mb-8 break-words w-full max-w-full">
+            <h2 className="text-display text-[10vw] xs:text-3xl sm:text-4xl md:text-5xl text-foreground mb-8 break-words w-full max-w-full">
               Invest With
               <br />
               <span className="text-gradient-gold">Confidence</span>
