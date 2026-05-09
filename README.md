@@ -26,15 +26,6 @@ Built as a fully static SPA with zero backend dependencies, powered by automated
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-## Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
 ---
 
 *Indo Investor Infra World — Turning Dreams Into Assets.*
