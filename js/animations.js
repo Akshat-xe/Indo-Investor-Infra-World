@@ -1,4 +1,4 @@
-import{r as v}from"./vendor-react-BXzZZRbR.js";var Ys={exports:{}},te={};/**
+import{r as v}from"./react-core.js";var Ys={exports:{}},te={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
