@@ -25,3 +25,5 @@ Indo Investor Infra World brings you premium real estate investment opportunitie
 ---
 
 *Secure your future with prime real estate investments.*
+
+<!-- Patch 2.0.0 -->
