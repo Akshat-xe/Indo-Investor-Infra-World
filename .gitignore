@@ -49,3 +49,5 @@ public/_redirects
 
 # AI crawler file (not needed)
 public/llms.txt
+
+# Patch 2.0.0
