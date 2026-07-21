@@ -51,3 +51,5 @@ public/_redirects
 public/llms.txt
 
 # Patch 2.0.0
+__pycache__/
+*.pyc
